@@ -13,6 +13,19 @@ STVM is meant to be small, and can be embedded in other applications.
 - STVM doesn't perform implicit safety checks, resulting in better run-time performance when compared to other VMs.
 - STVM doesn't have automatic memory management, so nothing is hidden from the programmer.
 
+#### STVM naming convention: ####
+\<implementation-name\>\<implementation-type\>n\<number-of-implementation-defined-instructions\>
+
+*implementation-type* can be **one of**:
+
+- `S`: Optimized for modern, high-end devices,
+- `E`: Optimized for embedded devices,
+- `P`: Optimized to be fast*,
+- `R`: Optimized to minimize consumption of resources*.
+
+*this might result in some instructions like *rlh* to *force_panic*.
+
+
 STVM has a (WIP) specification that you'll be able to find here in about 3-4 months.
 
 You'll also be able to find the source of the implementation of STVM I've been working on here soon.
