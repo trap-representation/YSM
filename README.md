@@ -23,7 +23,7 @@ STVM is meant to be small, and can be embedded in other applications.
 - `P`: Optimized to be fast*,
 - `R`: Optimized to minimize consumption of resources*.
 
-*this might result in some instructions like *rlh* to *force_panic*.
+*These implementations may not support certain instructions from the *basic instruction set*.
 
 
 STVM has a (WIP) specification that you'll be able to find here in about 3-4 months.
