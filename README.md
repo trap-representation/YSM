@@ -1,4 +1,7 @@
-STVM
+### STVM ###
+![STVM logo](./stvm-logo-github-light.png#gh-light-mode-only)
+![STVM logo](./stvm-logo-github-dark.png#gh-dark-mode-only)
+
 ----
 
 This is STVM - a stack-based virtual machine, which aims to be fast and lightweight.
