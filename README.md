@@ -6,7 +6,7 @@
 
 This is STVM - a stack machine, which aims to be fast and lightweight.
 
-STVM is meant to be small, and allows implemententations to extend the *base instruction set* with an *extended instruction set*.
+STVM is meant to be small, and allows implementations to extend the *base instruction set* with an *extended instruction set*.
 
 STVM has a (WIP) specification that you'll be able to find here in about 3-4 months.
 
