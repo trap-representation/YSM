@@ -4,7 +4,7 @@
 
 ----
 
-This is STVM - a stack machine, which aims to be fast and lightweight.
+This is STVM - a stack machine, which aims to be lightweight.
 
 STVM is meant to be small, and allows implementations to extend the *base instruction set* with an *extended instruction set*.
 
