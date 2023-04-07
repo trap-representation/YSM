@@ -1,8 +1,7 @@
 YSM
 ----
 
-![YSM logo](./ysm-logo-github-light.png#gh-light-mode-only)
-![YSM logo](./ysm-logo-github-dark.png#gh-dark-mode-only)
+![YSM logo](./ysm-logo.png)
 
 This is YSM - a stack machine, which aims to be simple.
 
